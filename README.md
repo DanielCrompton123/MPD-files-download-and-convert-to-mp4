@@ -4,13 +4,13 @@ MPDdownloader-merger by Nimish and Nitesh
 
 
 
-#Dependencies : youtube-dl, ffmpeg
+## Dependencies : youtube-dl, ffmpeg
 
-#Setup:
+## Setup:
 * sudo apt-get install youtube-dl
 * sudo apt-get install ffmpeg
  
-#Supplementary Material
+## Supplementary Material
 3 Bash scripts are provided.
   * The first one downloads all video streams from several links
   * The second one downloads all audio streams from the same set of links
